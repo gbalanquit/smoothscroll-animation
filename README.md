@@ -1,1 +1,1 @@
-# smoothscroll-animation
+# smoothscroll-animation using vanilla javascript
